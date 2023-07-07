@@ -1,4 +1,4 @@
-0-isupper.c
+0 - isupper.c
 
 #include "main.h"
 
